@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "concat": "^1.0.3",
+    "http-server": "^0.12.3",
     "jquery": "^3.6.0",
     "watcher": "^1.1.1"
   }
